@@ -1,4 +1,4 @@
-# OLPS
+# Mean Reversion Strategies for Online Portfolio Selection
 
 #### PAMR: Passive Aggressive Mean Reversion
 
@@ -21,3 +21,6 @@ Finally, we compare and analyze this process then get the results.
 ## SUMMARY
 
 We examine four strategies for mean reversion, PAMR, OLMAR, Anticor, and CWMR. At the same time, the strategy of analyzing these four effects can get results in different market environments to better capture trading opportunities.These strategies have been tested on the data set and have achieved good results.In the real world, in the face of huge data, the implementation ability of PAMRstrategy is very high. Although the phenomenon of mean reversion has been verified in many real markets, it is worth pointing out that PAMR’s performance in risk control is not satisfactory.The OLMAR algorithm has better performance among all the algorithms in the same period, especially on the Real dataset that beats PAMR and CWMR, but it costs more time.
+
+*******
+This is a personal task in master study.
