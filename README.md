@@ -1,12 +1,12 @@
 # OLPS
 
-PAMR: Passive Aggressive Mean Reversion
+## PAMR: Passive Aggressive Mean Reversion
 
-OLMAR: Online Moving Average Reversion
+## OLMAR: Online Moving Average Reversion
 
-Anticor: Anti-Correlation
+## Anticor: Anti-Correlation
 
-CWMR: Confidence Weighted Mean Reversion
+## CWMR: Confidence Weighted Mean Reversion
 
 
 
