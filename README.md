@@ -1,9 +1,14 @@
 # OLPS
 
 PAMR: Passive Aggressive Mean Reversion
+
 OLMAR: Online Moving Average Reversion
+
 Anticor: Anti-Correlation
+
 CWMR: Confidence Weighted Mean Reversion
+
+
 
 Portfolio selection aims to optimize the wealth distribution of a set of assets and choose the right combination of risks and returns. 
 
