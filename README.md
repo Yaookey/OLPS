@@ -1,12 +1,12 @@
 # OLPS
 
-## PAMR: Passive Aggressive Mean Reversion
+### PAMR: Passive Aggressive Mean Reversion
 
-## OLMAR: Online Moving Average Reversion
+### OLMAR: Online Moving Average Reversion
 
-## Anticor: Anti-Correlation
+### Anticor: Anti-Correlation
 
-## CWMR: Confidence Weighted Mean Reversion
+### CWMR: Confidence Weighted Mean Reversion
 
 
 
@@ -20,6 +20,7 @@ Second, verify the theoretical results with known experiment data sets.
 Third, use new data set to test whether it is an effective strategy.
 Finally, we compare and analyze this process then get the results.
 
+## SUMMARY
 
 We examine four strategies for mean reversion, PAMR, OLMAR, Anticor, and CWMR. 
 
